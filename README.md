@@ -84,7 +84,7 @@ Visit **[http://localhost:3000](http://localhost:3000)** to view the application
 
 | Member | Role | Deliverables |
 | :--- | :--- | :--- |
-| **Benadic** | **Lead & UI/UX** | Built the responsive Ground-Zero UI, Command Dashboard, Map View, and Offline-first caching logic using Next.js. |
+| **BENADIC90** | **Lead & UI/UX** | Built the responsive Ground-Zero UI, Command Dashboard, Map View, and Offline-first caching logic using Next.js. |
 | **Member 2** | **AI Engine** | Designed the NLP Keyword Classifier (`calculate_priority`) to automatically score and triage emergencies. |
 | **Member 3** | **Backend/DB** | Built the core Express API logic, WebSocket infrastructure, and the resource dispatch ledger. |
 
@@ -92,6 +92,6 @@ Visit **[http://localhost:3000](http://localhost:3000)** to view the application
 
 <br />
 
-> ### 💬 A Message to the Team from Benadic
+> ### 💬 A Message to the Team from BENADIC90
 > 
 > *Hey team, we pulled it off! We went from a simple concept to a fully functioning, offline-capable, responsive dispatch platform. The AI triage is working flawlessly, the backend sync is solid, and the UI is looking like a professional military-grade dashboard. Get some rest tonight, because tomorrow we are going to absolutely crush this hackathon presentation. So proud of what we built together! Let's go win this! 🚀*
